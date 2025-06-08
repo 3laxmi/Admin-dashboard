@@ -21,7 +21,7 @@ This project is a modern React-based admin dashboard with:
 ### Clone the repo
 
 ```bash
-git clone https://github.com/your-username/react-admin-dashboard.git
+git remote add origin https://github.com/3laxmi/Admin-dashboard.git
 cd react-admin-dashboard
 npm install
 npm start
